@@ -1,0 +1,10 @@
+Hi Dr. Lehr, I am writing this to you in hopes that this program works properly.
+It should have ten lines.
+I'm not sure what else to say.
+I'm struggling with this class, I really want to get better!
+5
+6
+7
+8
+9
+10

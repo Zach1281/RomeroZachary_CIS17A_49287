@@ -1,0 +1,2 @@
+Hi Dr. Lehr, this is my program for Gaddis Chapter 12 Question 7.
+This should change all capital letters into lower-case letters.
